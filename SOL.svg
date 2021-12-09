@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="768"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="SOL.svg"
+   inkscape:export-filename="C:\Users\Eden\Desktop\SOL.png"
+   inkscape:export-xdpi="291.70001"
+   inkscape:export-ydpi="291.70001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.36978094"
+     inkscape:cx="79.776962"
+     inkscape:cy="730.16203"
+     inkscape:window-width="1284"
+     inkscape:window-height="1032"
+     inkscape:window-x="470"
+     inkscape:window-y="79"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid846" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.55109;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect9558"
+       width="500"
+       height="457.11798"
+       x="520"
+       y="0" />
+    <rect
+       style="fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect20010"
+       width="500"
+       height="300"
+       x="520"
+       y="460" />
+    <rect
+       style="fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.79677;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect3362"
+       width="520"
+       height="760"
+       x="1.1368684e-13"
+       y="5.6843419e-14" />
+    <circle
+       style="fill:#527eff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="path905"
+       cx="260"
+       cy="240"
+       r="160" />
+    <rect
+       style="fill:#527eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1395"
+       width="160"
+       height="160"
+       x="100"
+       y="80" />
+    <rect
+       style="fill:#527eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.06559;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1397"
+       width="160"
+       height="160"
+       x="260"
+       y="240" />
+    <path
+       id="rect3012"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.94294;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 260,80 A 160,160 0 0 0 420,240 V 80 Z M 420,240 H 260 v 0.43945 h 160 z" />
+    <path
+       id="rect1952-6"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 100,240 V 400 H 260 A 160,160 0 0 1 100,240 Z" />
+    <path
+       id="rect7480"
+       style="fill:#ffb04b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 100,240 A 160,160 0 0 0 260,400 160,160 0 0 0 100,240 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold"
+       x="298.11951"
+       y="131.52008"
+       id="text6374"><tspan
+         sodipodi:role="line"
+         id="tspan6372"
+         x="298.11951"
+         y="131.52008">SOL</tspan></text>
+    <path
+       style="fill:#314b99;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100,240 260,80 H 100 Z"
+       id="path8995" />
+    <path
+       style="fill:#314b99;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 420,240 260,400 h 160 z"
+       id="path8995-4" />
+    <circle
+       style="fill:#527eff;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="path905-8"
+       cx="780"
+       cy="240"
+       r="160" />
+    <rect
+       style="fill:#527eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1395-5"
+       width="160"
+       height="160"
+       x="620"
+       y="80" />
+    <rect
+       style="fill:#527eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.06559;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1397-8"
+       width="160"
+       height="160"
+       x="780"
+       y="240" />
+    <path
+       id="rect3012-3"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.94294;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 780,80 A 160,160 0 0 0 940,240 V 80 Z M 940,240 H 780 v 0.43945 h 160 z" />
+    <path
+       id="rect1952-6-6"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 620,240 V 400 H 780 A 160,160 0 0 1 620,240 Z" />
+    <path
+       id="rect7480-5"
+       style="fill:#ffb04b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;paint-order:stroke markers fill"
+       d="M 620,240 A 160,160 0 0 0 780,400 160,160 0 0 0 620,240 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold"
+       x="818.11951"
+       y="131.52008"
+       id="text6374-0"><tspan
+         sodipodi:role="line"
+         id="tspan6372-2"
+         x="818.11951"
+         y="131.52008">SOL</tspan></text>
+    <path
+       style="fill:#314b99;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 620,240 780,80 H 620 Z"
+       id="path8995-0" />
+    <path
+       style="fill:#314b99;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 940,240 780,400 h 160 z"
+       id="path8995-4-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#ffffff;fill-opacity:1"
+       x="201.61288"
+       y="522.60822"
+       id="text13242"><tspan
+         sodipodi:role="line"
+         id="tspan13240"
+         x="201.61288"
+         y="522.60822">White - SanFran Sunshine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#ffb04b;fill-opacity:1"
+       x="230.8741"
+       y="572.97913"
+       id="text32368"><tspan
+         sodipodi:role="line"
+         id="tspan32366"
+         x="230.8741"
+         y="572.97913">Gold - SanFran Beach</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#527eff;fill-opacity:1"
+       x="110.84795"
+       y="625.36829"
+       id="text41443"><tspan
+         sodipodi:role="line"
+         id="tspan41441"
+         x="110.84795"
+         y="625.36829">LightBlue - Clear Sky</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#314b99;fill-opacity:1"
+       x="106.19621"
+       y="680"
+       id="text46496"><tspan
+         sodipodi:role="line"
+         id="tspan46494"
+         x="106.19621"
+         y="680">DarkBlue - Arrows, Discordant</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold"
+       x="211.82785"
+       y="730.8172"
+       id="text48648"><tspan
+         sodipodi:role="line"
+         id="tspan48646"
+         x="211.82785"
+         y="730.8172">Black - Shadow</tspan></text>
+  </g>
+</svg>
