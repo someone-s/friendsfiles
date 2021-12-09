@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="768"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Ameritrax.svg"
+   inkscape:export-filename="C:\Users\Eden\Desktop\Export.png"
+   inkscape:export-xdpi="291.70001"
+   inkscape:export-ydpi="291.70001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.52294922"
+     inkscape:cx="522.99533"
+     inkscape:cy="536.38095"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       units="pt" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+       id="rect876"
+       width="1030"
+       height="770"
+       x="0"
+       y="0"
+       inkscape:export-filename="C:\Users\Eden\Desktop\rect876.png"
+       inkscape:export-xdpi="291.70001"
+       inkscape:export-ydpi="291.70001" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.53539;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+       id="rect22246"
+       width="1010"
+       height="200"
+       x="20"
+       y="560" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.22368;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+       id="rect20114"
+       width="500"
+       height="390"
+       x="20"
+       y="0" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 999.99998,300 C 840,300 970,410 860,360 750,310 750,290 540,290 v -50 c 210,0 210,20 320,70 110,50 -30,-60 140,-60 z"
+       id="path864-71-6"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="31.073763"
+       inkscape:transform-center-y="-101.34827" />
+    <text
+       xml:space="preserve"
+       style="font-size:50.8834px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;stroke-width:1.27208;fill:#000000;fill-opacity:1;stroke:none"
+       x="537.86938"
+       y="370.74127"
+       id="text10398"
+       transform="scale(1.0043413,0.99567747)"><tspan
+         sodipodi:role="line"
+         id="tspan10396"
+         x="537.86938"
+         y="370.74127"
+         style="stroke-width:1.27208;fill:#000000;fill-opacity:1;stroke:none">AmeriTrax</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1000,350 v 20 H 950 C 890,290 837.96714,253.49715 830,65 l -30,5 40,-60 45,60 -30,-5 c 5,145 65,205 145,285 z"
+       id="path17609"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 999.99998,200 C 840,200 970,310 860,260 750,210 750,190 540,190 v -50 c 210,0 210,20 320,70 110,50 -30,-60 140,-60 z"
+       id="path864-71"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="31.073763"
+       inkscape:transform-center-y="-101.34827" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 999.99998,100 C 840,100 970,210 860,160 750,110 750,90 540,90 V 40 c 210,0 210,20 320,70 110,50 -30,-60 140,-60 z"
+       id="path864"
+       sodipodi:nodetypes="scccscs" />
+    <path
+       style="fill:#3c3b6e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 540,190 V 40 c 145,0 190,10 225,25 V 215 C 730,200 685,190 540,190 Z"
+       id="path7681"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,478.51351 c -49.3693,0 -9.25673,33.94145 -43.19815,18.51352 C 924.7973,481.5991 924.7973,475.42793 860,475.42793 V 460 c 64.7973,0 64.7973,6.17117 98.73875,21.5991 33.94142,15.42793 -9.25676,-18.51352 43.19815,-18.51352 z"
+       id="path864-7-1"
+       sodipodi:nodetypes="scccscs" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,524.7973 c -49.3693,0 -9.25673,33.94144 -43.19815,18.51351 C 924.7973,527.88288 924.7973,521.71171 860,521.71171 v -15.42793 c 64.7973,0 64.7973,6.17118 98.73875,21.5991 33.94142,15.42793 -9.25676,-18.51351 43.19815,-18.51351 z"
+       id="path864-71-6-7"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="9.588078"
+       inkscape:transform-center-y="-31.27188" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,509.36937 c -49.3693,0 -9.25673,33.94144 -43.19815,18.51351 C 924.7973,512.45496 924.7973,506.28378 860,506.28378 v -15.42792 c 64.7973,0 64.7973,6.17117 98.73875,21.5991 33.94142,15.42792 -9.25676,-18.51352 43.19815,-18.51352 z"
+       id="path864-7-5-9"
+       sodipodi:nodetypes="scccscs" />
+    <text
+       xml:space="preserve"
+       style="font-size:150.571px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.76426"
+       x="29.865528"
+       y="524.84851"
+       id="text10398-8"
+       transform="scale(1.0043413,0.99567747)"><tspan
+         sodipodi:role="line"
+         id="tspan10396-64"
+         x="29.865528"
+         y="524.84851"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.76426">AmeriTrax</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,540.22523 v 6.17117 h -15.42787 c -18.51352,-24.68469 -34.56874,-35.94795 -37.02704,-94.11037 l -9.25676,1.5428 12.34237,-18.51352 13.88514,18.51352 -9.25676,-1.5428 c 1.54277,44.741 20.05629,63.25451 44.74092,87.9392 z"
+       id="path17609-1"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,493.94144 c -49.3693,0 -9.25673,33.94144 -43.19815,18.51352 C 924.7973,497.02703 924.7973,490.85586 860,490.85586 v -15.42793 c 64.7973,0 64.7973,6.17117 98.73875,21.5991 33.94142,15.42793 -9.25676,-18.51352 43.19815,-18.51352 z"
+       id="path864-71-3"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="9.588078"
+       inkscape:transform-center-y="-31.271875" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,463.08558 c -49.3693,0 -9.25673,33.94145 -43.19815,18.51352 C 924.7973,466.17117 924.7973,460 860,460 v -15.42793 c 64.7973,0 64.7973,6.17117 98.73875,21.5991 33.94142,15.42793 -9.25676,-18.51352 43.19815,-18.51352 z"
+       id="path864-4"
+       sodipodi:nodetypes="scccscs" />
+    <path
+       style="fill:#3c3b6e;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 860,490.85586 v -46.28379 c 44.74099,0 58.62613,3.08558 69.42568,7.71396 v 46.28379 C 918.62613,493.94144 904.74099,490.85586 860,490.85586 Z"
+       id="path7681-8"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,719.36935 c -49.3693,0 -9.2567,33.94144 -43.1982,18.51351 C 924.7973,722.45493 924.7973,716.28376 860,716.28376 v -15.42793 c 64.7973,0 64.7973,6.17118 98.7387,21.5991 33.9415,15.42793 -9.2567,-18.51351 43.1982,-18.51351 z"
+       id="path864-71-6-7-3"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="9.588078"
+       inkscape:transform-center-y="-31.27188" />
+    <text
+       xml:space="preserve"
+       style="font-size:150.571px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.76426"
+       x="29.86553"
+       y="720.26532"
+       id="text10398-8-2"
+       transform="scale(1.0043413,0.99567747)"><tspan
+         sodipodi:role="line"
+         id="tspan10396-64-4"
+         x="29.86553"
+         y="720.26532"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.76426">AmeriTrax</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,734.79728 v 6.17117 H 986.509 C 967.9955,716.28376 951.9403,705.0205 949.482,646.85808 l -9.2568,1.5428 12.3424,-18.51352 13.8851,18.51352 -9.2567,-1.5428 c 1.5427,44.741 20.0563,63.25451 44.7409,87.9392 z"
+       id="path17609-1-7"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,688.51349 c -49.3693,0 -9.2567,33.94144 -43.1982,18.51352 C 924.7973,691.59908 924.7973,685.42791 860,685.42791 v -15.42793 c 64.7973,0 64.7973,6.17117 98.7387,21.5991 33.9415,15.42793 -9.2567,-18.51352 43.1982,-18.51352 z"
+       id="path864-71-3-6"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="9.588078"
+       inkscape:transform-center-y="-31.271875" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1001.9369,657.65763 c -49.3693,0 -9.2567,33.94145 -43.1982,18.51352 C 924.7973,660.74322 924.7973,654.57205 860,654.57205 v -15.42793 c 64.7973,0 64.7973,6.17117 98.7387,21.5991 33.9415,15.42793 -9.2567,-18.51352 43.1982,-18.51352 z"
+       id="path864-4-3"
+       sodipodi:nodetypes="scccscs" />
+    <path
+       style="fill:#3c3b6e;fill-opacity:1;stroke:none;stroke-width:0.308559px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 860,685.42791 v -46.28379 c 44.74099,0 58.62613,3.08558 69.42568,7.71396 v 46.28379 C 918.62613,688.51349 904.74099,685.42791 860,685.42791 Z"
+       id="path7681-8-4"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 499.99998,300 C 340,300 470,410 360,360 250,310 250,290 40,290 v -50 c 210,0 210,20 320,70 110,50 -30,-60 140,-60 z"
+       id="path864-71-6-8"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="31.073763"
+       inkscape:transform-center-y="-101.34827" />
+    <text
+       xml:space="preserve"
+       style="font-size:50.8834px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;stroke-width:1.27208;fill:#ffffff;fill-opacity:1"
+       x="40.03064"
+       y="370.7413"
+       id="text10398-4"
+       transform="scale(1.0043413,0.99567747)"><tspan
+         sodipodi:role="line"
+         id="tspan10396-6"
+         x="40.03064"
+         y="370.7413"
+         style="stroke-width:1.27208;fill:#ffffff;fill-opacity:1">AmeriTrax</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 500,350 v 20 H 450 C 390,290 337.96714,253.49715 330,65 l -30,5 40,-60 45,60 -30,-5 c 5,145 65,205 145,285 z"
+       id="path17609-2"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 500,200 c -159.99998,0 -29.99998,110 -139.99998,60 -110,-50 -110,-70 -320,-70 v -50 c 210,0 210,20 320,70 110,50 -30,-60 140,-60 z"
+       id="path864-71-62"
+       sodipodi:nodetypes="scccscs"
+       inkscape:transform-center-x="31.073763"
+       inkscape:transform-center-y="-101.34827" />
+    <path
+       style="fill:#b22234;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 499.99998,100 C 340,100 470,210 360,160 250,110 250,90 40,90 V 40 c 210,0 210,20 320,70 110,50 -30,-60 140,-60 z"
+       id="path864-74"
+       sodipodi:nodetypes="scccscs" />
+    <path
+       style="fill:#3c3b6e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 40,190 V 40 c 145,0 190,10 225,25 V 215 C 230,200 185,190 40,190 Z"
+       id="path7681-3"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
