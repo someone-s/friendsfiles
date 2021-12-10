@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="BlossomRR.svg"
+   inkscape:export-filename="C:\Users\Eden\Desktop\BlossomRR.png"
+   inkscape:export-xdpi="291.70001"
+   inkscape:export-ydpi="291.70001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,18 +26,22 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.73956188"
-     inkscape:cx="567.22772"
-     inkscape:cy="199.44241"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="276.99999"
+     inkscape:cy="230.99999"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true">
     <inkscape:grid
        type="xygrid"
-       id="grid824" />
+       id="grid7569" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -43,48 +50,132 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.90693;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.60963;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect4503"
-       width="920"
-       height="400"
-       x="60"
-       y="60" />
+       width="690"
+       height="380"
+       x="0"
+       y="0" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 60,300 h 920 v 10 H 60 Z"
-       id="path19459"
+       style="fill:#fca726;fill-opacity:1;stroke:none;stroke-width:0.684654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,195 h 690 v 25 H 0 Z"
+       id="path5153"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#fca726;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 60,260 h 920 v 40 H 60 Z"
-       id="path5153"
+       d="M 100,210 H 300 L 200,30 Z"
+       id="path927"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#1d6000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 340,322.5 H 60 l 140,-225 z"
+       id="path859"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#164a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 322,293.5 18,29 H 60 l 18,-29 z"
+       id="path6641"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#164a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 78,293.5 h 29 l 93,-146 v -50 z"
+       id="path7072"
        sodipodi:nodetypes="ccccc" />
-    <g
-       id="g5118">
-      <path
-         style="fill:#164a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 460,420 H 180 L 320,195 Z"
-         id="path859"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#fca726;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 220,260 H 420 L 320,80 Z"
-         id="path927"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#164a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 320,195 40,65 h -80 z"
-         id="path1745"
-         sodipodi:nodetypes="cccc" />
-    </g>
     <path
        style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 60,270 h 920 v 20 H 60 Z"
        id="path8664" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#fca726;fill-opacity:1;stroke:none"
+       x="332"
+       y="195"
+       id="text3141"><tspan
+         sodipodi:role="line"
+         id="tspan3139"
+         x="332"
+         y="195">NV LINJEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#164a00;fill-opacity:1;stroke:none"
+       x="332"
+       y="-219.85336"
+       id="text3141-1"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan3139-3"
+         x="332"
+         y="-219.85336">NV LINJEN</tspan></text>
     <path
-       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 248,310 7,-10 c 45,20 85,20 130,0 l 7,10 c -47,20 -97,20 -144,0 z"
-       id="path21093"
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 195,95 h 10 v 195 l -5,5 -5,-5 z"
+       id="path9662" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.60963;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect4503-2"
+       width="690"
+       height="380"
+       x="0"
+       y="380" />
+    <path
+       style="fill:#fca726;fill-opacity:1;stroke:none;stroke-width:0.684654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,575 h 690 v 25 H 0 Z"
+       id="path5153-5"
        sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#fca726;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100,590 H 300 L 200,410 Z"
+       id="path927-1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#1d6000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 340,702.5 H 60 l 140,-225 z"
+       id="path859-1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#164a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 322,673.5 18,29 H 60 l 18,-29 z"
+       id="path6641-1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#164a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 78,673.5 h 29 l 93,-146 v -50 z"
+       id="path7072-6"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140,600 60,80 150,-270 v 0 L 200,750 Z"
+       id="path5304-8"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140,220 60,80 150,-270 v 0 L 200,370 Z"
+       id="path5304-8-1"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#fca726;fill-opacity:1;stroke:none"
+       x="332"
+       y="575"
+       id="text3141-3"><tspan
+         sodipodi:role="line"
+         id="tspan3139-0"
+         x="332"
+         y="575">NV LINJEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#164a00;fill-opacity:1;stroke:none"
+       x="332"
+       y="-599.85339"
+       id="text3141-1-4"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan3139-3-3"
+         x="332"
+         y="-599.85339">NV LINJEN</tspan></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 195,475 h 10 v 195 l -5,5 -5,-5 z"
+       id="path9662-0" />
   </g>
 </svg>
